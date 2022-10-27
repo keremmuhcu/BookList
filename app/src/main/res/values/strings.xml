@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyBookList</string>
+    <string name="addBook">Add Book</string>
+    <string name="bookName">Book Name</string>
+    <string name="bookAuthor">Book Author</string>
+    <string name="bookSummary">Book Summary</string>
+    <string name="detailActivityBookName">Book Name: </string>
+    <string name="detailActivityBookAuthor">Book Author: </string>
+    <string name="detailActivityBookSummary"><u>Book Summary</u></string>
+    <string name="bookNameEditTextHint">Enter Book Name</string>
+    <string name="bookAuthorEditTextHint">Enter Author Name</string>
+    <string name="bookSummaryEditTextHint">Enter The Book Summary</string>
+    <string name="save">SAVE</string>
+</resources>
